@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@blitz-bots/builder": "jsr:@blitz-bots/builder@^1.0.4"
+  }
+}

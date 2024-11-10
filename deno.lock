@@ -1,0 +1,16 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@blitz-bots/builder@^1.0.4": "1.0.4"
+  },
+  "jsr": {
+    "@blitz-bots/builder@1.0.4": {
+      "integrity": "0464b9858d6b4c01c4ce83fc014fabd4f64dccf9d449a70c295bb6236b05f2f1"
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@blitz-bots/builder@^1.0.4"
+    ]
+  }
+}
